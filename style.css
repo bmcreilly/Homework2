@@ -1,0 +1,142 @@
+body{
+  background: #444444;
+  border: 5px solid #777777;
+  border-top: 5px solid #777777;
+  border-right: 5px solid #777777;
+  border-bottom: 5px solid #777777;
+  border-left: 5px solid #777777;
+  margin: 250px;
+  padding: 0px;
+}
+#active{
+  color: white;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+a{
+  color: #6ACC9C;
+  font-size: 18px;
+  font-family: sans-serif;
+  font-weight: bold;
+  padding: 5px;
+}
+#main{
+  color: white;
+  font-size: 40px;
+  font-family: serif;
+  font-style: italic;
+  font-weight: 300;
+  margin: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+  margin-left: 305px;
+}
+hr {
+  max-width: 500px;
+}
+h1{
+  color: white;
+  font-size: 30px;
+  font-family: serif;
+  font-weight: 500;
+  margin: 50px;
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-bottom: 40px;
+  margin-left: 35px;
+}
+h2{
+  color: #777777;
+  font-size: 20px;
+  font-family: serif;
+  font-weight: 500;
+  margin: 50px;
+  margin-top: 50px;
+  margin-right: 35px;
+  margin-bottom: 40px;
+  margin-left: 35px;
+}
+img {
+    border: 1px solid #777777;
+    border-radius: 0px;
+    padding: 5px;
+    width: 200px;
+    /*margin: 0px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 100px;
+    margin-left: 400px;*/
+    float: right;
+    clear: right;
+    margin: 0px 30px 0 0px;
+}
+p{
+  color: white;
+  font-size: 16px;
+  font-family: serif;
+  line-height: 20px;
+  font-weight: lighter;
+  margin: 50px;
+  margin-top: 40px;
+  margin-right: 30px;
+  margin-bottom: 40px;
+  margin-left: 35px;
+  padding: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+#listone{
+  color: white;
+  font-size: 16px;
+  font-family: serif;
+  line-height: 20px;
+  font-weight: lighter;
+  margin: 50px;
+  margin-top: 40px;
+  margin-right: 35px;
+  margin-bottom: 40px;
+  margin-left: 60px;
+  padding: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+#listtwo{
+  color: white;
+  font-size: 16px;
+  font-family: serif;
+  line-height: 20px;
+  font-weight: lighter;
+  margin: 50px;
+  margin-top: 40px;
+  margin-right: 35px;
+  margin-bottom: 40px;
+  margin-left: 60px;
+  padding: 0px;
+  padding-top: 0px;
+  padding-right: 0px;
+}
+li{
+  list-style-type: square;
+}
+.company{
+  color: white;
+  font-size: 13px;
+  font-family: serif;
+  line-height: 20px;
+  font-weight: bold;
+}
+.date{
+  color: #777777;
+  font-size: 13px;
+  font-family: serif;
+  line-height: 20px;
+  font-weight: lighter;
+}
+.info{
+  color: #777777;
+  font-size: 16px;
+  font-family: serif;
+  line-height: 20px;
+}
